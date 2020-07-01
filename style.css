@@ -1,0 +1,174 @@
+body{
+    margin: 0;
+  
+    font-family: 'Poppins', sans-serif;
+}
+
+/* HEADER START */
+
+h1{
+    font-size: 50px;
+  
+    
+}
+
+.colorful{
+    color: deeppink;
+}
+
+h2{
+    font-size: 40px;
+    margin-top: 3rem;
+    
+}
+.header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+    
+}
+.first{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.first img{
+    width: 100%;
+    
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+    width: 100%;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: deeppink;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+/* HEADER END */
+
+
+
+ /* BIOGRAPHY START */
+
+
+.middle{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 120px;
+}
+
+/* BIOGRAPHY END */
+
+
+
+/* MY LATEST WORK STRAT */
+
+
+.Latest-work{
+    height: 200px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+   
+}
+
+.font{
+    text-align: center;
+    padding: 70px 0;
+}
+
+.work img{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+ 
+}
+
+
+.work{
+    margin-left:7rem;
+}
+
+/* MY LATEST WORK END */
+
+
+/* EXTRA START */
+.extra{
+    margin-left: 7rem;
+
+}
+
+.extra img{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+ 
+}
+
+
+/* EXTRA END */
+
+
+
+/* FOOTER START */
+
+#style{
+    
+    color: gray;
+}
+
+.finish{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.last{
+    text-align: center;
+}
+
+#gap{
+    margin-top: 5px;
+    margin-bottom: 5rem;
+}
+ 
+.gmail{
+    text-decoration: none;
+    background-color: deeppink;
+    margin-left: 35rem;
+    margin-right: 35rem;
+    padding: 15px;
+    /* padding: 10px 20px; */
+    /* border-radius: 5px; */
+    color: white;
+    margin-top: 3rem;
+    border-radius: 5px;
+   
+    /* margin-top: 30px; */
+   
+}
+
+#size{
+    font-size: 10px;
+}
+
+#size2{
+    font-size: 10px;
+    margin-top: 5rem;
+}
+
+/* FOOTER END */
